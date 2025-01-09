@@ -1,9 +1,9 @@
 # KostuX
 **`(Software Engeneer)`**
 
-Exceptionally analytical, organised and motivated software developer with a solid foundation in computer science. Eager to learn new technologies, especially those that interconnect devices together. Mainly focus on software development, web applications, distributed networks and networking. In addition, gained skills in using ML/AI for data analytics and other classification tasks. Over the past few years, have honed my skills in various programming languages, including Java, JavaScript, PHP, and Python. I thrive on challenges and pursue ongoing training and professional growth. I hold a full Irish driving license, own a vehicle, and am flexible regarding working hours and location. 
+Exceptionally analytical, organised and motivated software developer with a solid foundation in computer science. Eager to learn new technologies, especially those that interconnect devices together. Mainly focus on software development, web applications, distributed networks and networking. In addition, gained skills in using ML/AI for data analytics and other classification tasks. Over the past few years, have honed my skills in various programming languages, including Java, JavaScript, PHP, and Python. I thrive on challenges and pursue ongoing training and professional growth.
 
-   <p align="left">
+   <p align="right">
           <a href="https://github.com/KostuX?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KostuX?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/KostuX?tab=repositories&sort=stargazers">
@@ -12,12 +12,11 @@ Exceptionally analytical, organised and motivated software developer with a soli
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
